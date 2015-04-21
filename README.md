@@ -2,7 +2,8 @@
 Stats on executions in the US from 2010 - 2015 parsed from http://www.deathpenaltyinfo.org/
 
 Using Kimono's quick API tool, each json file was created like so...
-curl -K --include --request GET "https://www.kimonolabs.com/api/ondemand/ekm25qni?apikey=##############&kimpath1=execution-list-2015" >> 2015.json
+
+```curl -K --include --request GET "https://www.kimonolabs.com/api/ondemand/ekm25qni?apikey=##############&kimpath1=execution-list-2015" >> 2015.json```
 
 The article that sparked my curiosity:
 http://www.nytimes.com/2015/04/22/us/victims-in-boston-marathon-bombings-are-split-on-death-penalty.html
