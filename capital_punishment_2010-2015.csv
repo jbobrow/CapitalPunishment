@@ -1,216 +1,216 @@
 index,date,name,age,race,victim_race,method,years_from_sentence,drug,state
-1189,1/7/10,Vernon Smith,37,B,1 Other,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1190,1/7/10,Kenneth Mosley,51,B,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1191,1/7/10,Gerald Bordelon*,47,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,LA
-1192,1/12/10,Gary Johnson,59,W,2 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1193,1/14/10,Julius Ricardo Young,60,B,2 Black,Lethal Injection,,3-drug w/ sodium thiopental,OK
-1194,2/4/10,Mark Brown,37,B,1 Other,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1195,2/16/10,Martin Grossman,45,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,FL
-1196,3/2/10,Michael Sigala,32,L,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1197,3/11/10,Joshua Maxwell,31,W,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1198,3/16/10,Lawrence Reynolds,43,W,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1199,3/18/10,Paul Powell,31,W,1 White,Electric Chair,,,VA
-1200,3/30/10,Franklin Alix,34,B,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1201,4/20/10,Darryl Durr,46,B,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1202,4/22/10,William Berkley,31,W,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1203,4/27/10,Samuel Bustamente,40,L,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1204,5/12/10,Kevin Varga,41,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1205,5/13/10,Michael Beuke,48,W,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1206,5/13/10,Billy Galloway,41,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1207,5/19/10,Rogelio Cannady,37,H,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1208,5/19/10,Paul Woodward,62,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MS
-1209,5/20/10,Gerald Holland,72,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MS
-1210,5/20/10,Darick Walker,37,B,2 Black,Lethal Injection,,3-drug w/ sodium thiopental,VA
-1211,5/25/10,John Alba,54,L,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1212,5/27/10,Thomas Whisenhant,63,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1213,6/2/10,George Jones,36,B,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1214,6/9/10,Melbert Ford,49,W,2 White,Lethal Injection,,3-drug w/ sodium thiopental,GA
-1215,6/10/10,John Forrest Parker,42,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1216,6/15/10,David Powell,59,W,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1217,6/18/10,Ronnie Gardner,49,W,1 White,Firing Squad,,,UT
-1218,7/1/10,Michael Perry,28,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1219,7/13/10,William Garner,37,B,5 Black,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1220,7/20/10,Derrick Jackson,42,B,2 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1221,7/21/10,Joseph Burns,42,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MS
-1222,8/10/10,Roderick Davie,38,B,1 White 1 Black,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1223,8/12/10,Michael Land,41,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1224,8/17/10,Peter Cantu,35,L,2 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1225,9/9/10,Holly Wood,50,B,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1226,9/10/10,Cal Brown,52,W,1 White,Lethal Injection,,1-drug w/ sodium thiopental,WA
-1227,9/23/10,Teresa Lewis ƒ,41,W,2 White,Lethal Injection,,3-drug w/ sodium thiopental,VA
-1228,9/27/10,Brandon Rhode,31,W,3 White,Lethal Injection,,3-drug w/ sodium thiopental,GA
-1229,10/6/10,Michael Benge,49,W,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
-1230,10/14/10,Donald Wackerly,41,W,1 Asian,Lethal Injection,,3-drug w/ sodium thiopental,OK
-1231,10/21/10,Larry Wooten,51,B,2 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1189,1/7/10,Vernon Smith,37,Black,1 Other,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1190,1/7/10,Kenneth Mosley,51,Black,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1191,1/7/10,Gerald Bordelon*,47,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,LA
+1192,1/12/10,Gary Johnson,59,White,2 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1193,1/14/10,Julius Ricardo Young,60,Black,2 Black,Lethal Injection,,3-drug w/ sodium thiopental,OK
+1194,2/4/10,Mark Brown,37,Black,1 Other,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1195,2/16/10,Martin Grossman,45,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,FL
+1196,3/2/10,Michael Sigala,32,Latino,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1197,3/11/10,Joshua Maxwell,31,White,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1198,3/16/10,Lawrence Reynolds,43,White,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1199,3/18/10,Paul Powell,31,White,1 White,Electric Chair,,,VA
+1200,3/30/10,Franklin Alix,34,Black,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1201,4/20/10,Darryl Durr,46,Black,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1202,4/22/10,William Berkley,31,White,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1203,4/27/10,Samuel Bustamente,40,Latino,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1204,5/12/10,Kevin Varga,41,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1205,5/13/10,Michael Beuke,48,White,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1206,5/13/10,Billy Galloway,41,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1207,5/19/10,Rogelio Cannady,37,Hispanic,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1208,5/19/10,Paul Woodward,62,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MS
+1209,5/20/10,Gerald Holland,72,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MS
+1210,5/20/10,Darick Walker,37,Black,2 Black,Lethal Injection,,3-drug w/ sodium thiopental,VA
+1211,5/25/10,John Alba,54,Latino,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1212,5/27/10,Thomas Whisenhant,63,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1213,6/2/10,George Jones,36,Black,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1214,6/9/10,Melbert Ford,49,White,2 White,Lethal Injection,,3-drug w/ sodium thiopental,GA
+1215,6/10/10,John Forrest Parker,42,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1216,6/15/10,David Powell,59,White,1 Latino,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1217,6/18/10,Ronnie Gardner,49,White,1 White,Firing Squad,,,UT
+1218,7/1/10,Michael Perry,28,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1219,7/13/10,William Garner,37,Black,5 Black,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1220,7/20/10,Derrick Jackson,42,Black,2 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1221,7/21/10,Joseph Burns,42,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MS
+1222,8/10/10,Roderick Davie,38,Black,1 White 1 Black,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1223,8/12/10,Michael Land,41,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1224,8/17/10,Peter Cantu,35,Latino,2 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1225,9/9/10,Holly Wood,50,Black,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1226,9/10/10,Cal Brown,52,White,1 White,Lethal Injection,,1-drug w/ sodium thiopental,WA
+1227,9/23/10,Teresa Lewis ƒ,41,White,2 White,Lethal Injection,,3-drug w/ sodium thiopental,VA
+1228,9/27/10,Brandon Rhode,31,White,3 White,Lethal Injection,,3-drug w/ sodium thiopental,GA
+1229,10/6/10,Michael Benge,49,White,1 White,Lethal Injection,,1-drug w/ sodium thiopental,OH
+1230,10/14/10,Donald Wackerly,41,White,1 Asian,Lethal Injection,,3-drug w/ sodium thiopental,OK
+1231,10/21/10,Larry Wooten,51,Black,2 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
 1232,10/26/10,Jeffrey Landrigan,50,NA,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AZ
-1233,11/4/10,Phillip Hallford,63,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1234,12/16/10,John David Duty,58,W,1 White,Lethal Injection,,3-drug w/ pentobarbital**,OK
-1235,1/6/11,Billy Don Alverson,39,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,OK
-1236,1/11/11,Jeffrey Matthews,38,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,OK
-1237,1/13/11,Leroy White,52,B,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1238,1/25/11,Emmanuel Hammond,45,B,1 White,Lethal Injection,,3-drug w/ sodium thiopental,GA
-1239,2/9/11,Martin Link,47,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MO
-1240,2/15/11,Michael Hall,31,W,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1241,2/17/11,Frank Spisak,59,W,"2 Black, 1 White",Lethal Injection,,1-drug sodium thiopental,OH
-1242,2/22/11,Timothy Adams,42,B,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
-1243,3/10/11,Johnnie Baston,37,B,1 Asian,Lethal Injection,,1-drug pentobarbital**,OH
-1244,3/29/11,Eric King,47,B,2 White,Lethal Injection,,3-drug w/ sodium thiopental,AZ
-1245,3/31/11,William Glenn Boyd,45,W,2 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
-1246,4/12/11,Clarence Carter,49,B,1 Black,Lethal Injection,,1-drug pentobarbital,OH
-1247,5/3/11,Cary Kerr,46,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,TX
-1248,5/6/11,Jeffrey Motts*,36,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,SC
-1249,5/10/11,Benny Stevens,52,W,4 White,Lethal Injection,,3-drug w/ pentobarbital,MS
-1250,5/17/11,Daniel Bedford,63,W,1 White,Lethal Injection,,1-drug pentobarbital,OH
-1251,5/17/11,Rodney Gray,39,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,MS
-1252,5/19/11,Jason Williams,42,W,4 White,Lethal Injection,,3-drug w/ pentobarbital,AL
-1253,5/25/11,Donald Beaty,56,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,AZ
-1254,6/1/11,Gayland Bradford,42,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,TX
-1255,6/16/11,Lee Taylor¥,32,W,1 Black,Lethal Injection,,3-drug w/ pentobarbital,TX
-1256,6/16/11,Eddie Powell III,41,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,AL
-1257,6/21/11,Milton Mathis,32,B,"1 White, 1 Black",Lethal Injection,,3-drug w/ pentobarbital,TX
-1258,6/23/11,Roy Blankenship,55,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,GA
-1259,6/30/11,Richard Bible,49,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,AZ
-1260,7/7/11,Humberto Leal~,38,L,1 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
-1261,7/19/11,Thomas West,52,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,AZ
-1262,7/20/11,Mark Stroman,41,W,1 Asian,Lethal Injection,,3-drug w/ pentobarbital,TX
-1263,7/21/11,Andrew Grant DeYoung,37,W,3 White,Lethal Injection,,3-drug w/ pentobarbital,GA
-1264,7/29/11,Robert Jackson III,38,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,DE
-1265,8/10/11,Martin Robles,33,L,2 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
-1266,8/18/11,Jerry Jackson,30,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,VA
-1267,9/13/11,Steven Woods,31,W,2 White,Lethal Injection,,3-drug w/ pentobarbital,TX
-1268,9/21/11,Lawrence Brewer¥,44,W,1 Black,Lethal Injection,,3-drug w/ pentobarbital,TX
-1269,9/21/11,Troy Davis,41,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,GA
-1270,9/22/11,Derrick Mason,37,B,1 White,Lethal Injection,,3-drug w/ pentobarbital,AL
-1271,9/28/11,Manuel Valle~,61,L,1 Latino,Lethal Injection,,3-drug w/ pentobarbital,FL
-1272,10/20/11,Christopher Johnson*,38,W,1 White,Lethal Injection,,3-drug w/ pentobarbital,AL
-1273,10/27/11,Frank Garcia,39,L,2 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
-1274,11/15/11,Reginald Brooks,66,B,3 Black,Lethal Injection,,1-drug pentobarbital,OH
-1275,11/15/11,Oba Chandler,65,W,3 White,Lethal Injection,,3-drug w/ pentobarbital,FL
-1276,11/16/11,Guadalupe Esparza,46,L,1 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
-1277,11/18/11,Paul Rhoades,54,W,2 White,Lethal Injection,,3-drug w/ pentobarbital,ID
-1278,1/5/12,Gary Welch,49,W,1 White,Lethal Injection,17,3-drug w/ pentobarbital,OK
-1279,1/26/12,Rodrigo Hernandez,39,L,1 White,Lethal Injection,10,3-drug w/ pentobarbital,TX
-1280,2/8/12,Edwin Turner ¥,38,W,2 Black,Lethal Injection,16,3-drug w/ pentobarbital,MS
-1281,2/15/12,Robert Waterhouse,65,W,1 White,Lethal Injection,32,3-drug w/ pentobarbital,FL
-1282,2/29/12,Robert Moorman,63,W,1 White,Lethal Injection,27,1-drug (pentobarbital),AZ
-1283,2/29/12,George Rivas,41,L,1 White,Lethal Injection,11,3-drug w/ pentobarbital,TX
-1284,3/7/12,Keith Thurmond,52,W,2 White,Lethal Injection,10,3-drug w/ pentobarbital,TX
-1285,3/8/12,Robert Towery,47,W,1 White,Lethal Injection,20,1-drug (pentobarbital),AZ
-1286,3/15/12,Timothy Stemple,46,W,1 White,Lethal Injection,14,3-drug w/ pentobarbital,OK
-1287,3/20/12,Larry Puckett,35,W,1 White,Lethal Injection,16,3-drug w/ pentobarbital,MS
-1288,3/22/12,William Mitchell,61,B,1 White,Lethal Injection,14,3-drug w/ pentobarbital,MS
-1289,3/28/12,Jesse Hernandez,47,L,1 Latino,Lethal Injection,10,3-drug w/ pentobarbital,TX
-1290,4/12/12,David Gore,58,W,1 White,Lethal Injection,28,3-drug w/ pentobarbital,FL
-1291,4/18/12,Mark Wiles,49,W,1 White,Lethal Injection,26,1 drug (pentobarbital),OH
-1292,4/20/12,Shannon Johnson*,28,B,1 Black,Lethal Injection,6,3-drug w/ pentobarbital,DE
-1293,4/25/12,Thomas Kemp,63,W,1 Latino,Lethal Injection,19,1 drug (pentobarbital),AZ
-1294,4/26/12,Beunka Adams,29,B,1 White,Lethal Injection,8,3-drug w/ pentobarbital,TX
-1295,5/1/12,Michael Selsor,57,W,1 White,Lethal Injection,36,3-drug w/ pentobarbital,OK
-1296,6/5/12,Henry Jackson,47,B,4 Black,Lethal Injection,22,3-drug w/ pentobarbital,MS
-1297,6/12/12,Richard Leavitt,53,W,1 White,Lethal Injection,27,1 drug (pentobarbital),ID
-1298,6/12/12,Jan Brawner,34,W,4 White,Lethal Injection,10,3-drug w/ pentobarbital,MS
-1299,6/20/12,Gary Simmons,49,W,1 White,Lethal Injection,15,3-drug w/ pentobarbital,MS
-1300,6/27/12,Samuel Lopez,49,L,1 Latino,Lethal Injection,25,1-drug (pentobarbital),AZ
-1301,7/18/12,Yokamon Hearn,33,B,1 White,Lethal Injection,14,1-drug (pentobarbital),TX
-1302,8/7/12,Marvin Wilson,54,B,1 Black,Lethal Injection,18,1-drug (pentobarbital),TX
-1303,8/8/12,Daniel Cook,51,W,"1 Latino
+1233,11/4/10,Phillip Hallford,63,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1234,12/16/10,John David Duty,58,White,1 White,Lethal Injection,,3-drug w/ pentobarbital**,OK
+1235,1/6/11,Billy Don Alverson,39,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,OK
+1236,1/11/11,Jeffrey Matthews,38,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,OK
+1237,1/13/11,Leroy White,52,Black,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1238,1/25/11,Emmanuel Hammond,45,Black,1 White,Lethal Injection,,3-drug w/ sodium thiopental,GA
+1239,2/9/11,Martin Link,47,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,MO
+1240,2/15/11,Michael Hall,31,White,1 White,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1241,2/17/11,Frank Spisak,59,White,"2 Black, 1 White",Lethal Injection,,1-drug sodium thiopental,OH
+1242,2/22/11,Timothy Adams,42,Black,1 Black,Lethal Injection,,3-drug w/ sodium thiopental,TX
+1243,3/10/11,Johnnie Baston,37,Black,1 Asian,Lethal Injection,,1-drug pentobarbital**,OH
+1244,3/29/11,Eric King,47,Black,2 White,Lethal Injection,,3-drug w/ sodium thiopental,AZ
+1245,3/31/11,William Glenn Boyd,45,White,2 White,Lethal Injection,,3-drug w/ sodium thiopental,AL
+1246,4/12/11,Clarence Carter,49,Black,1 Black,Lethal Injection,,1-drug pentobarbital,OH
+1247,5/3/11,Cary Kerr,46,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,TX
+1248,5/6/11,Jeffrey Motts*,36,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,SC
+1249,5/10/11,Benny Stevens,52,White,4 White,Lethal Injection,,3-drug w/ pentobarbital,MS
+1250,5/17/11,Daniel Bedford,63,White,1 White,Lethal Injection,,1-drug pentobarbital,OH
+1251,5/17/11,Rodney Gray,39,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,MS
+1252,5/19/11,Jason Williams,42,White,4 White,Lethal Injection,,3-drug w/ pentobarbital,AL
+1253,5/25/11,Donald Beaty,56,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,AZ
+1254,6/1/11,Gayland Bradford,42,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,TX
+1255,6/16/11,Lee Taylor¥,32,White,1 Black,Lethal Injection,,3-drug w/ pentobarbital,TX
+1256,6/16/11,Eddie Powell III,41,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,AL
+1257,6/21/11,Milton Mathis,32,Black,"1 White, 1 Black",Lethal Injection,,3-drug w/ pentobarbital,TX
+1258,6/23/11,Roy Blankenship,55,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,GA
+1259,6/30/11,Richard Bible,49,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,AZ
+1260,7/7/11,Humberto Leal~,38,Latino,1 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
+1261,7/19/11,Thomas West,52,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,AZ
+1262,7/20/11,Mark Stroman,41,White,1 Asian,Lethal Injection,,3-drug w/ pentobarbital,TX
+1263,7/21/11,Andrew Grant DeYoung,37,White,3 White,Lethal Injection,,3-drug w/ pentobarbital,GA
+1264,7/29/11,Robert Jackson III,38,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,DE
+1265,8/10/11,Martin Robles,33,Latino,2 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
+1266,8/18/11,Jerry Jackson,30,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,VA
+1267,9/13/11,Steven Woods,31,White,2 White,Lethal Injection,,3-drug w/ pentobarbital,TX
+1268,9/21/11,Lawrence Brewer¥,44,White,1 Black,Lethal Injection,,3-drug w/ pentobarbital,TX
+1269,9/21/11,Troy Davis,41,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,GA
+1270,9/22/11,Derrick Mason,37,Black,1 White,Lethal Injection,,3-drug w/ pentobarbital,AL
+1271,9/28/11,Manuel Valle~,61,Latino,1 Latino,Lethal Injection,,3-drug w/ pentobarbital,FL
+1272,10/20/11,Christopher Johnson*,38,White,1 White,Lethal Injection,,3-drug w/ pentobarbital,AL
+1273,10/27/11,Frank Garcia,39,Latino,2 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
+1274,11/15/11,Reginald Brooks,66,Black,3 Black,Lethal Injection,,1-drug pentobarbital,OH
+1275,11/15/11,Oba Chandler,65,White,3 White,Lethal Injection,,3-drug w/ pentobarbital,FL
+1276,11/16/11,Guadalupe Esparza,46,Latino,1 Latino,Lethal Injection,,3-drug w/ pentobarbital,TX
+1277,11/18/11,Paul Rhoades,54,White,2 White,Lethal Injection,,3-drug w/ pentobarbital,ID
+1278,1/5/12,Gary Welch,49,White,1 White,Lethal Injection,17,3-drug w/ pentobarbital,OK
+1279,1/26/12,Rodrigo Hernandez,39,Latino,1 White,Lethal Injection,10,3-drug w/ pentobarbital,TX
+1280,2/8/12,Edwin Turner ¥,38,White,2 Black,Lethal Injection,16,3-drug w/ pentobarbital,MS
+1281,2/15/12,Robert Waterhouse,65,White,1 White,Lethal Injection,32,3-drug w/ pentobarbital,FL
+1282,2/29/12,Robert Moorman,63,White,1 White,Lethal Injection,27,1-drug (pentobarbital),AZ
+1283,2/29/12,George Rivas,41,Latino,1 White,Lethal Injection,11,3-drug w/ pentobarbital,TX
+1284,3/7/12,Keith Thurmond,52,White,2 White,Lethal Injection,10,3-drug w/ pentobarbital,TX
+1285,3/8/12,Robert Towery,47,White,1 White,Lethal Injection,20,1-drug (pentobarbital),AZ
+1286,3/15/12,Timothy Stemple,46,White,1 White,Lethal Injection,14,3-drug w/ pentobarbital,OK
+1287,3/20/12,Larry Puckett,35,White,1 White,Lethal Injection,16,3-drug w/ pentobarbital,MS
+1288,3/22/12,William Mitchell,61,Black,1 White,Lethal Injection,14,3-drug w/ pentobarbital,MS
+1289,3/28/12,Jesse Hernandez,47,Latino,1 Latino,Lethal Injection,10,3-drug w/ pentobarbital,TX
+1290,4/12/12,David Gore,58,White,1 White,Lethal Injection,28,3-drug w/ pentobarbital,FL
+1291,4/18/12,Mark Wiles,49,White,1 White,Lethal Injection,26,1 drug (pentobarbital),OH
+1292,4/20/12,Shannon Johnson*,28,Black,1 Black,Lethal Injection,6,3-drug w/ pentobarbital,DE
+1293,4/25/12,Thomas Kemp,63,White,1 Latino,Lethal Injection,19,1 drug (pentobarbital),AZ
+1294,4/26/12,Beunka Adams,29,Black,1 White,Lethal Injection,8,3-drug w/ pentobarbital,TX
+1295,5/1/12,Michael Selsor,57,White,1 White,Lethal Injection,36,3-drug w/ pentobarbital,OK
+1296,6/5/12,Henry Jackson,47,Black,4 Black,Lethal Injection,22,3-drug w/ pentobarbital,MS
+1297,6/12/12,Richard Leavitt,53,White,1 White,Lethal Injection,27,1 drug (pentobarbital),ID
+1298,6/12/12,Jan Brawner,34,White,4 White,Lethal Injection,10,3-drug w/ pentobarbital,MS
+1299,6/20/12,Gary Simmons,49,White,1 White,Lethal Injection,15,3-drug w/ pentobarbital,MS
+1300,6/27/12,Samuel Lopez,49,Latino,1 Latino,Lethal Injection,25,1-drug (pentobarbital),AZ
+1301,7/18/12,Yokamon Hearn,33,Black,1 White,Lethal Injection,14,1-drug (pentobarbital),TX
+1302,8/7/12,Marvin Wilson,54,Black,1 Black,Lethal Injection,18,1-drug (pentobarbital),TX
+1303,8/8/12,Daniel Cook,51,White,"1 Latino
 1 White",Lethal Injection,24,1-drug (pentobarbital),AZ
-1304,8/14/12,Michael Hooper,40,W,3 White,Lethal Injection,17,3-drug w/ pentobarbital,OK
-1305,9/20/12,Donald Palmer,47,W,2 White,Lethal Injection,23,1-drug (pentobarbital),OH
-1306,9/20/12,Robert Harris,40,B,"1 Latino
+1304,8/14/12,Michael Hooper,40,White,3 White,Lethal Injection,17,3-drug w/ pentobarbital,OK
+1305,9/20/12,Donald Palmer,47,White,2 White,Lethal Injection,23,1-drug (pentobarbital),OH
+1306,9/20/12,Robert Harris,40,Black,"1 Latino
 1 White",Lethal Injection,12,1-drug (pentobarbital),TX
-1307,9/25/12,Cleve Foster¥,47,W,1 Black,Lethal Injection,8,1-drug (pentobarbital),TX
-1308,10/10/12,Jonathan Green,44,B,1 White,Lethal Injection,10,1-drug (pentobarbital),TX
-1309,10/15/12,Eric Robert*,50,W,1 White,Lethal Injection,1,1-drug (pentobarbital),SD
-1310,10/24/12,Bobby Hines,40,W,1 White,Lethal Injection,20,1-drug (pentobarbital),TX
-1311,10/30/12,Donald Moeller,60,W,1 White,Lethal Injection,20,1-drug (pentobarbital),SD
-1312,10/31/12,Donnie Roberts,41,W,1 White,Lethal Injection,8,1-drug (pentobarbital),TX
-1313,11/6/12,Garry Allen,56,B,1 Black,Lethal Injection,19,3-drug w/pentobarbital,OK
-1314,11/8/12,Mario Swain,33,B,1 White,Lethal Injection,8,1-drug (pentobarbital),TX
-1315,11/13/12,Brett Hartman,38,W,1 White,Lethal Injection,14,1-drug (pentobarbital),OH
-1316,11/14/12,Ramon Hernandez,41,L,1 Latino,Lethal Injection,10,1-drug (pentobarbital),TX
-1317,11/15/12,Preston Hughes,46,B,2 Black,Lethal Injection,23,1-drug (pentobarbital),TX
-1318,12/4/12,George Ochoa,38,L,2 Latino,Lethal Injection,16,3-drug w/pentobarbital,OK
-1319,12/5/12,Richard Stokley,60,W,2 White,Lethal Injection,20,1-drug (pentobarbital),AZ
-1320,12/11/12,Manuel Pardo,56,W,"8 Latino, 1 White",Lethal Injection,24,3-drug w/pentobarbital,FL
-1321,1/16/13,Robert Gleason*,42,W,"1 White
+1307,9/25/12,Cleve Foster¥,47,White,1 Black,Lethal Injection,8,1-drug (pentobarbital),TX
+1308,10/10/12,Jonathan Green,44,Black,1 White,Lethal Injection,10,1-drug (pentobarbital),TX
+1309,10/15/12,Eric Robert*,50,White,1 White,Lethal Injection,1,1-drug (pentobarbital),SD
+1310,10/24/12,Bobby Hines,40,White,1 White,Lethal Injection,20,1-drug (pentobarbital),TX
+1311,10/30/12,Donald Moeller,60,White,1 White,Lethal Injection,20,1-drug (pentobarbital),SD
+1312,10/31/12,Donnie Roberts,41,White,1 White,Lethal Injection,8,1-drug (pentobarbital),TX
+1313,11/6/12,Garry Allen,56,Black,1 Black,Lethal Injection,19,3-drug w/pentobarbital,OK
+1314,11/8/12,Mario Swain,33,Black,1 White,Lethal Injection,8,1-drug (pentobarbital),TX
+1315,11/13/12,Brett Hartman,38,White,1 White,Lethal Injection,14,1-drug (pentobarbital),OH
+1316,11/14/12,Ramon Hernandez,41,Latino,1 Latino,Lethal Injection,10,1-drug (pentobarbital),TX
+1317,11/15/12,Preston Hughes,46,Black,2 Black,Lethal Injection,23,1-drug (pentobarbital),TX
+1318,12/4/12,George Ochoa,38,Latino,2 Latino,Lethal Injection,16,3-drug w/pentobarbital,OK
+1319,12/5/12,Richard Stokley,60,White,2 White,Lethal Injection,20,1-drug (pentobarbital),AZ
+1320,12/11/12,Manuel Pardo,56,White,"8 Latino, 1 White",Lethal Injection,24,3-drug w/pentobarbital,FL
+1321,1/16/13,Robert Gleason*,42,White,"1 White
 1 Black",Electrocution,2,N/A,VA
-1322,2/21/13,Carl Blue,48,B,1 Black,Lethal Injection,17,1-drug (pentobarbital),TX
-1323,2/21/13,Andrew Cook,38,W,2 White,Lethal Injection,17,1-drug (pentobarbital),GA
-1324,3/6/13,Frederick Treesh¥,48,W,1 Black,Lethal Injection,18,1-drug (pentobarbital),OH
-1325,3/12/13,Ray Thacker,42,W,1 White,Lethal Injection,11,3-drug w/ pentobarbital,OK
-1326,4/9/13,Rickey Lewis,50,B,1 White,Lethal Injection,19,1-drug (pentobarbital),TX
-1327,4/10/13,Larry Mann,59,W,1 White,Lethal Injection,23,3-drug w/ pentobarbital,FL
-1328,4/16/13,Ronnie Threadgill,40,B,1 Black,Lethal Injection,11,1-drug (pentobarbital),TX
-1329,4/25/13,Richard Cobb,29,W,1 White,Lethal Injection,9,1-drug (pentobarbital),TX
-1330,5/1/13,Steve Smith,46,W,1 White,Lethal Injection,14,1-drug (pentobarbital),OH
-1331,5/7/13,Carroll Parr,35,B,1 Latino,Lethal Injection,9,1-drug (pentobarbital),TX
-1332,5/15/13,Jeffery Williams,37,B,1 White,Lethal Injection,13,1-drug (pentobarbital),TX
-1333,5/29/13,Elmer Carroll,56,W,1 White,Lethal Injection,21,3-drug w/ pentobarbital,FL
-1334,6/12/13,Elroy Chester,44,B,1 White,Lethal Injection,15,1-drug (pentobarbital),TX
-1335,6/12/13,William Van Poyck,58,W,1 White,Lethal Injection,25,3-drug w/ pentobarbital,FL
-1336,6/18/13,James DeRosa,36,W,2 White,Lethal Injection,12,3-drug w/ pentobarbital,OK
-1337,6/25/13,Brian Davis,39,B,1 Black,Lethal Injection,10,3-drug w/ pentobarbital,OK
-1338,6/26/13,Kimberly McCarthyƒ,52,B,1 White,Lethal Injection,15,1-drug (pentobarbital),TX
-1339,7/16/13,John Quintanilla,36,L,1 White,Lethal Injection,9,1-drug (pentobarbital),TX
-1340,7/18/13,Vaughn Ross,41,B,"1 White
+1322,2/21/13,Carl Blue,48,Black,1 Black,Lethal Injection,17,1-drug (pentobarbital),TX
+1323,2/21/13,Andrew Cook,38,White,2 White,Lethal Injection,17,1-drug (pentobarbital),GA
+1324,3/6/13,Frederick Treesh¥,48,White,1 Black,Lethal Injection,18,1-drug (pentobarbital),OH
+1325,3/12/13,Ray Thacker,42,White,1 White,Lethal Injection,11,3-drug w/ pentobarbital,OK
+1326,4/9/13,Rickey Lewis,50,Black,1 White,Lethal Injection,19,1-drug (pentobarbital),TX
+1327,4/10/13,Larry Mann,59,White,1 White,Lethal Injection,23,3-drug w/ pentobarbital,FL
+1328,4/16/13,Ronnie Threadgill,40,Black,1 Black,Lethal Injection,11,1-drug (pentobarbital),TX
+1329,4/25/13,Richard Cobb,29,White,1 White,Lethal Injection,9,1-drug (pentobarbital),TX
+1330,5/1/13,Steve Smith,46,White,1 White,Lethal Injection,14,1-drug (pentobarbital),OH
+1331,5/7/13,Carroll Parr,35,Black,1 Latino,Lethal Injection,9,1-drug (pentobarbital),TX
+1332,5/15/13,Jeffery Williams,37,Black,1 White,Lethal Injection,13,1-drug (pentobarbital),TX
+1333,5/29/13,Elmer Carroll,56,White,1 White,Lethal Injection,21,3-drug w/ pentobarbital,FL
+1334,6/12/13,Elroy Chester,44,Black,1 White,Lethal Injection,15,1-drug (pentobarbital),TX
+1335,6/12/13,William Van Poyck,58,White,1 White,Lethal Injection,25,3-drug w/ pentobarbital,FL
+1336,6/18/13,James DeRosa,36,White,2 White,Lethal Injection,12,3-drug w/ pentobarbital,OK
+1337,6/25/13,Brian Davis,39,Black,1 Black,Lethal Injection,10,3-drug w/ pentobarbital,OK
+1338,6/26/13,Kimberly McCarthyƒ,52,Black,1 White,Lethal Injection,15,1-drug (pentobarbital),TX
+1339,7/16/13,John Quintanilla,36,Latino,1 White,Lethal Injection,9,1-drug (pentobarbital),TX
+1340,7/18/13,Vaughn Ross,41,Black,"1 White
 1 Black",Lethal Injection,11,1-drug (pentobarbital),TX
-1341,7/25/13,Andrew Lackey*,29,W,1 White,Lethal Injection,5,3-drug w/ pentobarbital,AL
-1342,7/31/13,Douglas Feldman,55,W,"1 Latino
+1341,7/25/13,Andrew Lackey*,29,White,1 White,Lethal Injection,5,3-drug w/ pentobarbital,AL
+1342,7/31/13,Douglas Feldman,55,White,"1 Latino
 1 White",Lethal Injection,14,1-drug (pentobarbital),TX
-1343,8/5/13,John Ferguson,65,B,8 White,Lethal Injection,35,3-drug w/ pentobarbital,FL
-1344,9/10/13,Anthony Banks,60,B,1 Asian,Lethal Injection,14,3-drug w/ pentobarbital,OK
-1345,9/19/13,Robert Garza,30,L,4 Latino,Lethal Injection,10,1-drug (pentobarbital),TX
-1346,9/25/13,Harry Mitts,61,W,"1 White
+1343,8/5/13,John Ferguson,65,Black,8 White,Lethal Injection,35,3-drug w/ pentobarbital,FL
+1344,9/10/13,Anthony Banks,60,Black,1 Asian,Lethal Injection,14,3-drug w/ pentobarbital,OK
+1345,9/19/13,Robert Garza,30,Latino,4 Latino,Lethal Injection,10,1-drug (pentobarbital),TX
+1346,9/25/13,Harry Mitts,61,White,"1 White
 1 Black",Lethal Injection,19,1-drug (pentobarbital),OH
-1347,9/26/13,Arturo Diaz,37,L,1 White,Lethal Injection,13,1-drug (pentobarbital),TX
-1348,10/1/13,Marshall Gore,50,W,1 White,Lethal Injection,23,3-drug w/ pentobarbital,FL
-1349,10/9/13,Edward Schad,71,W,1 White,Lethal Injection,34,1-drug (pentobarbital),AZ
-1350,10/9/13,Michael Yowell,43,W,3 White,Lethal Injection,14,1-drug (pentobarbital),TX
-1351,10/15/13,William Happ*,51,W,1 White,Lethal Injection,24,3-drug w/ midazolam hydrochloride,FL
-1352,10/23/13,Robert Jones,43,W,6 White,Lethal Injection,13,1-drug (pentobarbital),AZ
-1353,11/12/13,Darius Kimbrough,40,B,1 White,Lethal Injection,19,3-drug w/ midazolam hydrochloride,FL
-1354,11/12/13,Jamie McCoskey,49,W,1 White,Lethal Injection,20,1-drug (pentobarbital),TX
-1355,11/20/13,Joseph Franklin,63,W,1 White,Lethal Injection,16,1-drug (pentobarbital),MO
-1356,12/3/13,Jerry Martin,43,W,1 White,Lethal Injection,4,1-drug (pentobarbital),TX
-1357,12/10/13,Ronald Lott,53,B,2 White,Lethal Injection,11,3-drug w/ pentobarbital,OK
-1358,12/11/13,Allen Nicklasson,41,W,1 White,Lethal Injection,17,1-drug (pentobarbital),MO
-1359,12/17/13,Johnny Black,48,W,1 White,Lethal Injection,14,3-drug w/ pentobarbital,OK
-1360,1/7/14,Askari Muhammad,62,B,1 White,Lethal Injection,30,3-drug w/ midazolam hydrochloride,FL
-1361,1/9/14,Michael Wilson,38,B,1 White,Lethal Injection,16,3-drug w/ pentobarbital,OK
-1362,1/16/14,Dennis McGuire,53,W,1 White,Lethal Injection,20,2-drug (midazolam + hydromorphone),OH
-1363,1/22/14,Edgar Tamayo~,46,L,1 White,Lethal Injection,20,1-drug (pentobarbital),TX
-1364,1/24/14,Kenneth Hogan,52,W,1 White,Lethal Injection,11,3-drug w/ pentobarbital,OK
-1365,1/29/14,Herbert Smulls,56,B,1 White,Lethal Injection,22,1-drug (pentobarbital),MO
-1366,2/5/14,Suzanne Bassoƒ,59,W,1 White,Lethal Injection,15,1-drug (pentobarbital),TX
-1367,2/12/14,Juan Chavez~,46,L,1 White,Lethal Injection,16,3-drug w/ midazolam hydrochloride,FL
-1368,2/26/14,Michael Taylor,47,B,1 White,Lethal Injection,23,1-drug (pentobarbital),MO
-1369,2/26/14,Paul Howell,48,B,1 White,Lethal Injection,19,3-drug w/ midazolam hydrochloride,FL
-1370,3/19/14,Ray Jasper,33,B,1 Latino,Lethal Injection,14,1-drug (pentobarbital),TX
-1371,3/20/14,Robert Henry,55,B,"1 White, 1 Black",Lethal Injection,26,3-drug w/ midazolam hydrochloride,FL
-1372,3/26/14,Jeffrey Ferguson,59,W,1 White,Lethal Injection,19,1-drug (pentobarbital),MO
-1373,3/27/14,Anthony Doyle,29,B,1 Asian,Lethal Injection,10,1-drug (pentobarbital),TX
-1374,4/3/14,Tommy Sells,49,W,1 White,Lethal Injection,14,1-drug (pentobarbital),TX
-1375,4/9/14,Ramiro Hernandez~,44,L,1 White,Lethal Injection,14,1-drug (pentobarbital),TX
-1376,4/16/14,Jose Villegas,39,L,3 Latino,Lethal Injection,12,1-drug (pentobarbital),TX
-1377,4/23/14,William Rousan,57,W,2 White,Lethal Injection,18,1-drug (pentobarbital),MO
-1378,4/23/14,Robert Hendrix,47,W,2 White,Lethal Injection,23,3-drug w/ midazolam hydrochloride,FL
-1379,4/29/14,Clayton Lockett,38,B,1 White,Lethal Injection,14,3-drug w/ midazolam hydrochloride,OK
-1380,6/17/14,Marcus Wellons,58,B,1 Black,Lethal Injection,21,1-drug (pentobarbital),GA
-1381,6/18/14,John Winfield,46,B,2 Black,Lethal Injection,16,1-drug (pentobarbital),MO
-1382,6/18/14,John Henry,63,B,2 White,Lethal Injection,23,3-drug w/ midazolam hydrochloride,FL
-1383,7/10/14,Eddie Davis,45,W,1 White,Lethal Injection,19,3-drug w/ midazolam hydrochloride,FL
-1384,7/16/14,John Middleton,54,W,3 White,Lethal Injection,17,1-drug (pentobarbital),MO
-1385,7/23/14,Joseph Wood,55,W,2 White,Lethal Injection,23,2-drug (midazolam + hydromorphone),AZ
-1386,8/6/14,Michael Worthington,43,W,1 White,Lethal Injection,16,1-drug (pentobarbital),MO
-1387,9/10/14,"Earl Ringo, Jr.",40,B,2 White,Lethal Injection,16,1-drug (pentobarbital),MO
-1388,9/10/14,Willie Trottie,45,B,2 Black,Lethal Injection,21,1-drug (pentobarbital),TX
-1389,9/17/14,Lisa Coleman ƒ,38,B,1 Black,Lethal Injection,8,1-drug (pentobarbital),TX
-1390,10/28/14,Miguel Paredes,32,L,"2 Latino, 1 White",Lethal Injection,14,1-drug (pentobarbital),TX
-1391,11/13/14,Chadwick Banks,43,B,1 Black,Lethal Injection,20,3-drug w/ midazolam hydrochloride,FL
-1392,11/19/14,Leon Taylor,56,B,1 White,Lethal Injection,15,1-drug (pentobarbital),MO
-1393,12/9/14,Robert Holsey,49,B,1 White,Lethal Injection,17,1-drug (pentobarbital),GA
-1394,12/10/14,Paul Goodwin,48,W,1 White,Lethal Injection,15,1-drug (pentobarbital),MO
+1347,9/26/13,Arturo Diaz,37,Latino,1 White,Lethal Injection,13,1-drug (pentobarbital),TX
+1348,10/1/13,Marshall Gore,50,White,1 White,Lethal Injection,23,3-drug w/ pentobarbital,FL
+1349,10/9/13,Edward Schad,71,White,1 White,Lethal Injection,34,1-drug (pentobarbital),AZ
+1350,10/9/13,Michael Yowell,43,White,3 White,Lethal Injection,14,1-drug (pentobarbital),TX
+1351,10/15/13,William Happ*,51,White,1 White,Lethal Injection,24,3-drug w/ midazolam hydrochloride,FL
+1352,10/23/13,Robert Jones,43,White,6 White,Lethal Injection,13,1-drug (pentobarbital),AZ
+1353,11/12/13,Darius Kimbrough,40,Black,1 White,Lethal Injection,19,3-drug w/ midazolam hydrochloride,FL
+1354,11/12/13,Jamie McCoskey,49,White,1 White,Lethal Injection,20,1-drug (pentobarbital),TX
+1355,11/20/13,Joseph Franklin,63,White,1 White,Lethal Injection,16,1-drug (pentobarbital),MO
+1356,12/3/13,Jerry Martin,43,White,1 White,Lethal Injection,4,1-drug (pentobarbital),TX
+1357,12/10/13,Ronald Lott,53,Black,2 White,Lethal Injection,11,3-drug w/ pentobarbital,OK
+1358,12/11/13,Allen Nicklasson,41,White,1 White,Lethal Injection,17,1-drug (pentobarbital),MO
+1359,12/17/13,Johnny Black,48,White,1 White,Lethal Injection,14,3-drug w/ pentobarbital,OK
+1360,1/7/14,Askari Muhammad,62,Black,1 White,Lethal Injection,30,3-drug w/ midazolam hydrochloride,FL
+1361,1/9/14,Michael Wilson,38,Black,1 White,Lethal Injection,16,3-drug w/ pentobarbital,OK
+1362,1/16/14,Dennis McGuire,53,White,1 White,Lethal Injection,20,2-drug (midazolam + hydromorphone),OH
+1363,1/22/14,Edgar Tamayo~,46,Latino,1 White,Lethal Injection,20,1-drug (pentobarbital),TX
+1364,1/24/14,Kenneth Hogan,52,White,1 White,Lethal Injection,11,3-drug w/ pentobarbital,OK
+1365,1/29/14,Herbert Smulls,56,Black,1 White,Lethal Injection,22,1-drug (pentobarbital),MO
+1366,2/5/14,Suzanne Bassoƒ,59,White,1 White,Lethal Injection,15,1-drug (pentobarbital),TX
+1367,2/12/14,Juan Chavez~,46,Latino,1 White,Lethal Injection,16,3-drug w/ midazolam hydrochloride,FL
+1368,2/26/14,Michael Taylor,47,Black,1 White,Lethal Injection,23,1-drug (pentobarbital),MO
+1369,2/26/14,Paul Howell,48,Black,1 White,Lethal Injection,19,3-drug w/ midazolam hydrochloride,FL
+1370,3/19/14,Ray Jasper,33,Black,1 Latino,Lethal Injection,14,1-drug (pentobarbital),TX
+1371,3/20/14,Robert Henry,55,Black,"1 White, 1 Black",Lethal Injection,26,3-drug w/ midazolam hydrochloride,FL
+1372,3/26/14,Jeffrey Ferguson,59,White,1 White,Lethal Injection,19,1-drug (pentobarbital),MO
+1373,3/27/14,Anthony Doyle,29,Black,1 Asian,Lethal Injection,10,1-drug (pentobarbital),TX
+1374,4/3/14,Tommy Sells,49,White,1 White,Lethal Injection,14,1-drug (pentobarbital),TX
+1375,4/9/14,Ramiro Hernandez~,44,Latino,1 White,Lethal Injection,14,1-drug (pentobarbital),TX
+1376,4/16/14,Jose Villegas,39,Latino,3 Latino,Lethal Injection,12,1-drug (pentobarbital),TX
+1377,4/23/14,William Rousan,57,White,2 White,Lethal Injection,18,1-drug (pentobarbital),MO
+1378,4/23/14,Robert Hendrix,47,White,2 White,Lethal Injection,23,3-drug w/ midazolam hydrochloride,FL
+1379,4/29/14,Clayton Lockett,38,Black,1 White,Lethal Injection,14,3-drug w/ midazolam hydrochloride,OK
+1380,6/17/14,Marcus Wellons,58,Black,1 Black,Lethal Injection,21,1-drug (pentobarbital),GA
+1381,6/18/14,John Winfield,46,Black,2 Black,Lethal Injection,16,1-drug (pentobarbital),MO
+1382,6/18/14,John Henry,63,Black,2 White,Lethal Injection,23,3-drug w/ midazolam hydrochloride,FL
+1383,7/10/14,Eddie Davis,45,White,1 White,Lethal Injection,19,3-drug w/ midazolam hydrochloride,FL
+1384,7/16/14,John Middleton,54,White,3 White,Lethal Injection,17,1-drug (pentobarbital),MO
+1385,7/23/14,Joseph Wood,55,White,2 White,Lethal Injection,23,2-drug (midazolam + hydromorphone),AZ
+1386,8/6/14,Michael Worthington,43,White,1 White,Lethal Injection,16,1-drug (pentobarbital),MO
+1387,9/10/14,"Earl Ringo, Jr.",40,Black,2 White,Lethal Injection,16,1-drug (pentobarbital),MO
+1388,9/10/14,Willie Trottie,45,Black,2 Black,Lethal Injection,21,1-drug (pentobarbital),TX
+1389,9/17/14,Lisa Coleman ƒ,38,Black,1 Black,Lethal Injection,8,1-drug (pentobarbital),TX
+1390,10/28/14,Miguel Paredes,32,Latino,"2 Latino, 1 White",Lethal Injection,14,1-drug (pentobarbital),TX
+1391,11/13/14,Chadwick Banks,43,Black,1 Black,Lethal Injection,20,3-drug w/ midazolam hydrochloride,FL
+1392,11/19/14,Leon Taylor,56,Black,1 White,Lethal Injection,15,1-drug (pentobarbital),MO
+1393,12/9/14,Robert Holsey,49,Black,1 White,Lethal Injection,17,1-drug (pentobarbital),GA
+1394,12/10/14,Paul Goodwin,48,White,1 White,Lethal Injection,15,1-drug (pentobarbital),MO
 1395,1/13/15,Andrew Brannan,66,White,1 White,Lethal Injection,15,1-drug (pentobarbital),GA
 1396,1/15/15,Johnny Kormondy,42,White,1 White,Lethal Injection,21,3-drug (midazolam),FL
 1397,1/15/15,Charles Warner,46,Black,1 Black,Lethal Injection,17,3-drug (midazolam),OK
