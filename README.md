@@ -31,4 +31,4 @@ Any comments, data, tips are welcome. Thanks!
 Jonathan Bobrow
 jbobrow@gmail.com
 
-[screenshot]: https://github.com/jbobrow/CapitalPunishment/images/sanddance_screenshot.png "Screenshot of Microsoft SandDance"
+[screenshot]: https://github.com/jbobrow/CapitalPunishment/blob/master/images/sanddance_screenshot.png "Screenshot of Microsoft SandDance"
