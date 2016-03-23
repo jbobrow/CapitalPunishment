@@ -20,7 +20,15 @@ If you find this interesting in helping in the process, this data is currently o
 
 Additionally, the data can probably take on a bit better shape. (i.e. I want to change the victim information to be an array of the victims with their race, currently it is in a form that is less friendly to parse)
 
+**DATA VISUALIZATION:**
+While I haven't touched this data in about a year, I noticed today (3.23.2016), that Microsoft released a nice tool, [SandDance](https://sanddance.azurewebsites.net/), for visualizing large data sets in a variety of ways. I found it too be quite revelatory in a way that I wanted the data to be, which I believe is a good start for a data set that can lend itself to much more provocation. Here is a quick screenshot of what SandDance is capable of with this data. ![SandDance Screenshot][screenshot]
+
+**Format Conversion:**
+I relied on this [JSON to CSV converter](http://www.convertcsv.com/json-to-csv.htm) and combined the ~6 years of data into one file.
+
 Any comments, data, tips are welcome. Thanks!
 
 Jonathan Bobrow
 jbobrow@gmail.com
+
+[screenshot]: https://github.com/jbobrow/CapitalPunishment/images/sanddance_screenshot.png "Screenshot of Microsoft SandDance"
